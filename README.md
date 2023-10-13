@@ -7,5 +7,5 @@ A techie person with a Chemistry ( Hons ) Degree from Hansraj College ( Universi
 2. Wordpress Delhi NCR Meetup. (Volunteer)
 
 ### List of my attended WordCamps
-1. WordCamp Bhopal 2023 (Upcoming)
+1. WordCamp Bhopal 2023 ( Photography Volunteer)
 
