@@ -5,6 +5,9 @@ A techie person with a Chemistry ( Hons ) Degree from Hansraj College ( Universi
 ## Events I attended
 1. Divi AI in Wordpress. (Speaker)
 2. Wordpress Delhi NCR Meetup. (Volunteer)
+3. MongoDB.local 2023 (As Attendee)
+4. Amazon Web services 2023 (As Attendee)
+5. India Affiliate Summit 2023 (As Attendee)
 
 ### List of my attended WordCamps
 1. WordCamp Bhopal 2023 ( Photography Volunteer)
