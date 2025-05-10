@@ -20,5 +20,5 @@ A techie person with a Chemistry ( Hons ) Degree from Hansraj College ( Universi
 ### List of my attended WordCamps
 1. WordCamp Bhopal 2023 ( Photography Volunteer)
 2. WordCamp Delhi 2024 ( Social Media Team Head )
-3. WordCamp Neapl 2025 ( AX Team Volunteer)
+3. WordCamp Nepal 2025 ( AX Team Volunteer)
 
