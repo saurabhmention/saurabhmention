@@ -14,6 +14,8 @@ A techie person with a Chemistry ( Hons ) Degree from Hansraj College ( Universi
 9. MongoDB.local 2024 (Attendee)
 10. Amazon Web services 2024 (Attendee)
 11. Indian Affiliate Summit 2024 (Attendee)
+12. realme 14 Pro Lanuch Event 2025 (Community Member)
+13. realme X Krafton BGMI Event 2025 (Community Member)
 
 ### List of my attended WordCamps
 1. WordCamp Bhopal 2023 ( Photography Volunteer)
