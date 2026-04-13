@@ -19,7 +19,8 @@ A techie person with a Chemistry ( Hons ) Degree from Hansraj College ( Universi
 14. realme X Krafton BGMI Event 2025 (Community Member)
 
 ### List of my attended WordCamps
-1. WordCamp Bhopal 2023 ( Photography Volunteer)
-2. WordCamp Delhi 2024 ( Social Media Team Head )
-3. WordCamp Nepal 2025 ( AX Team Volunteer)
-
+1. WordCamp Bhopal 2023 (Photography Volunteer)
+2. WordCamp Delhi 2024 (Social Media Team Head )
+3. WordCamp Nepal 2025 (AX Team Volunteer)
+4. WordCamp Bhopal 2025 (Attendee)
+5. WordCamp Asia 2026 (Attendee)
