@@ -24,3 +24,4 @@ A techie person with a Chemistry ( Hons ) Degree from Hansraj College ( Universi
 3. WordCamp Nepal 2025 (AX Team Volunteer)
 4. WordCamp Bhopal 2025 (Attendee)
 5. WordCamp Asia 2026 (Attendee)
+6. WordCamp Rajasthan 2026 (Photography Volunteer)
