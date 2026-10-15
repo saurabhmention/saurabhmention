@@ -25,3 +25,4 @@ A techie person with a Chemistry ( Hons ) Degree from Hansraj College ( Universi
 4. WordCamp Bhopal 2025 (Attendee)
 5. WordCamp Asia 2026 (Attendee)
 6. WordCamp Rajasthan 2026 (Photography Volunteer)
+7. WordCamp Delhi 2026 (Organiser)
